@@ -1,8 +1,7 @@
-# Grove-Glucose-Sensor
-
 # Non-Invasive Glucose Monitoring System
 
-![Project Banner](https://github.com/yourusername/glucose-monitor/raw/main/assets/banner.jpg) <!-- Add your banner image later -->
+![images](https://github.com/user-attachments/assets/79d759a3-9101-4f3b-be7a-3ee83f73f533)
+
 
 A prototype system for non-invasive glucose level estimation using PPG signals from MAX30102 sensor and machine learning algorithms.
 
@@ -22,7 +21,7 @@ A prototype system for non-invasive glucose level estimation using PPG signals f
 ## Introduction
 This project demonstrates a proof-of-concept for non-invasive glucose monitoring using photoplethysmography (PPG) signals. The system captures infrared and red light absorption data from a MAX30102 sensor, processes the signals to extract meaningful features, and uses a machine learning model to estimate glucose levels. This repository contains the Arduino code for the embedded system and Python scripts for model training.
 
-**Disclaimer**: This is a research prototype only. Not for medical use. Accuracy depends on individual calibration and has not been clinically validated.
+> **Disclaimer**: This is a research prototype only. Not for medical use. Accuracy depends on individual calibration and has not been clinically validated.
 
 ## Features
 - Real-time PPG signal acquisition from MAX30102 sensor
