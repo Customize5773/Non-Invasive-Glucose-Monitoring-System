@@ -1,6 +1,6 @@
 # Non-Invasive Glucose Monitoring System
 
-![images](https://github.com/user-attachments/assets/79d759a3-9101-4f3b-be7a-3ee83f73f533)
+![S77db5f95b2fa408f9981d9796abab4eed](https://github.com/user-attachments/assets/b38cda4c-1f65-4882-bd46-4e0e34655878)
 
 
 A prototype system for non-invasive glucose level estimation using PPG signals from MAX30102 sensor and machine learning algorithms.
